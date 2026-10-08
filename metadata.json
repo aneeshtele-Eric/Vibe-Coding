@@ -1,0 +1,6 @@
+{
+  "name": "The Orbit Travel Intelligence",
+  "description": "Autonomous travel intelligence designed to eliminate decision fatigue with real-time departure windows, crowd-filtered pacing, verified sentiment lodging, and instant constraint adaptation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
